@@ -1505,6 +1505,7 @@ footer::after{content:"";position:absolute;left:0;right:0;top:0;height:90px;poin
 /* ---- hero ---- */
 .hero{display:block;text-align:center;padding-top:var(--s7);padding-bottom:var(--s7);}
 .herotype-wrap{position:relative;}
+.herocover{width:100%;height:auto;display:block;border-radius:var(--r-xl);}
 .herotype{width:100%;height:auto;display:block;}
 body.lang-en .herotype.vn,body.lang-vn .herotype.en{display:none;}
 .ht-l{font-family:'Montserrat',sans-serif;font-weight:800;letter-spacing:-.02em;}
